@@ -2,7 +2,7 @@
 
 欢迎来到`第四代`**VOCALOID**研究院!
 
-TODO: moviepy, [`scipy.io.wavfile`](https://www.cnblogs.com/MoonlightMaleGod/p/9966240.html)
+TODO: `moviepy`, [`scipy.io.wavfile`](https://www.cnblogs.com/MoonlightMaleGod/p/9966240.html)
 
 ### 歌姬应援色一览
 
