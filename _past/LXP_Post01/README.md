@@ -1,4 +1,6 @@
-> Time: `2018-12-28 02:49`
+---
+Date: 2018-12-28 02:49:39
+---
 
 # 呼嘎，这里是李新朋。
 
@@ -45,11 +47,11 @@ eve成功反杀，获得第一名的成绩，然而p子王八（只是戏称，�
 
 第10名也是我强推的对象，砂天狗第二首曲子，很惊艳很有前途，pv也做的很赞，歌曲和roki差不多的曲风，使用的vy1也是不常用的音源，yamaha自家制造，人设是一把擅自e，其实就是没有人设，让你自己想(可能这也是没有人气的原因吧，但声音很好听)，调教的也很好，强烈推荐 。
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Heart_Death_1.jpeg?raw=true)
+![](img/Heart_Death_1.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Heart_Death_2.jpeg?raw=true)
+![](img/Heart_Death_2.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Heart_Death_3.jpeg?raw=true)
+![](img/Heart_Death_3.jpeg)
 
 ***
 
@@ -85,7 +87,7 @@ RIN被初音MIKU培养成了杀戮人偶，并有目的性的杀人，后来也�
 
 四季折之翼，一滴p在中国最火的曲子之一这可以说是日本民间故事白鹤报恩V+双子版本，年轻人(len)帮助中了陷阱的白鹤(rin)，然后与变成人类的白鹤一起组家庭，后来年轻人病倒了，白鹤用它自己的羽毛来纺织赚钱，最后羽毛最后到了最后一根，最后年轻人还是去世了，至于白鹤，原文倒没说 。
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/4Seasons_Broken_Wing.jpeg?raw=true)
+![](img/4Seasons_Broken_Wing.jpeg)
 
 > Soundless Voice [av377901](https://www.bilibili.com/video/av377901/)
 
@@ -101,19 +103,19 @@ RIN被初音MIKU培养成了杀戮人偶，并有目的性的杀人，后来也�
 
 pv一开始便完全精致，到最后，因为每张都不一样，之放了一个标题在上面，原pv不只是标题。
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Bad_End_Night.jpeg?raw=true)
+![](img/Bad_End_Night.jpeg)
 
 > Bad∞End∞Night [av199948](https://www.bilibili.com/video/av199948/)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Crazy_Night.jpeg?raw=true)
+![](img/Crazy_Night.jpeg)
 
 > Crazy∞Night [av312154](https://www.bilibili.com/video/av312154/)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Twilight_Night.jpeg?raw=true)
+![](img/Twilight_Night.jpeg)
 
 > Twilight∞Night [av471464](https://www.bilibili.com/video/av471464/)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Ever_Lasting_Night.jpeg?raw=true)
+![](img/Ever_Lasting_Night.jpeg)
 
 > Ever∞Lasting∞Night [av5670969](https://www.bilibili.com/video/av5670969)
 
@@ -152,7 +154,7 @@ pv一开始便完全精致，到最后，因为每张都不一样，之放了一
 
 其余九个人都死的好惨呀，算了，不说了，涉嫌了，想看的自己去bilibili上看吧。
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/God_And_Tower.jpeg?raw=true)
+![](img/God_And_Tower.jpeg)
 
 > 祝福的救世主与爱之塔 [av5415624](https://www.bilibili.com/video/av5415624/)
 
@@ -193,16 +195,16 @@ pv一开始便完全精致，到最后，因为每张都不一样，之放了一
 6. Snow Crystal / Mwk feat. Hatsune Miku
 7. White Bird / s10rw (yuxuki waga, monaca:factory, ryuryu, whoo) feat. Hatsune Miku
 8. Magic of Winter / \*Luna feat. Hatsune Miku
-9. AI - Snail's House RemixBonus track / Remixed by Snail's House
+9. AI - Snail\'s House RemixBonus track / Remixed by Snail\'s House
 
 ***
 
 ## 12月25日马赛克卷1000万达成，用时3084.5日，DECO\*27成为第五位拥有神话曲Producer！
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/Mosaic_Roll.jpeg?raw=true)
+![](img/Mosaic_Roll.jpeg)
 
 ***
 
 ## 最后祝镜音小天使生日快乐。
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post01/img/KAGAMINE.jpeg?raw=true)
+![](img/KAGAMINE.jpeg)
