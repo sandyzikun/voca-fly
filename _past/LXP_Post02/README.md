@@ -1,4 +1,6 @@
-> Time: `2019-01-04 05:59`
+---
+Date: 2019-01-04 05:59:39
+---
 
 # 呼嘎，这里是李新朋。
 
@@ -47,19 +49,19 @@
 
 那我们就开始：今天的话题，阳炎，在去年的这个周里，阳炎的创作者jin，创作了第三张阳炎专辑，时隔五年重新开始阳炎乐章。
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/Mekakucityreload.jpeg?raw=true)
+![](img/Mekakucityreload.jpeg)
 
 我在之前看过几张图，是说这些vocaloid歌姬最伤他们感情的一句话是什么。
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/diva1.jpeg?raw=true)
+![](img/diva1.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/diva2.jpeg?raw=true)
+![](img/diva2.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/diva3.jpeg?raw=true)
+![](img/diva3.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/diva4.jpeg?raw=true)
+![](img/diva4.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/diva5.jpeg?raw=true)
+![](img/diva5.jpeg)
 
 看到IA了吗，这就和jin息息相关了（你是魔鬼吗，IA这么可爱）
 
@@ -79,11 +81,11 @@ JIN、自然之敌P最一开始选择使用的Vocaloid为初音未来
 
 看看这些播放量吧：
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/num_Plays.jpeg?raw=true)
+![](img/num_Plays.jpeg)
 
 这些曲子都在2013年充斥着vocaloid的榜单，jin以一首「アヤノの幸福理论」
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/Ayano.jpeg?raw=true)
+![](img/Ayano.jpeg)
 
 只花费4小时11分钟的速度刷新殿堂纪录（现在被超了，那个曲子不想也知道是哪首）(编者注: **砂の惑星**, 典型的工作曲, 如果不工作说实话也就20w)
 
@@ -121,7 +123,7 @@ JIN再怎麽说好歹也是有一定水准的
 
 ＰＶ最后则写著：「这个动画所登场的团体名、事情皆为虚构，与实际的事实无关联。只不过是巧合而已喔（笑）」不过在同一画面的后方，却以透明的文字写著「这个故事是根据真实事件所构成。」
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/PV_Announcement.jpeg?raw=true)
+![](img/PV_Announcement.jpeg)
 
 最后，这首曲子自然是引起了jin与1st的关注,
 
@@ -202,19 +204,19 @@ miku不能伴我们一生，总有一天，她会衰退，虽然16年的复兴�
 
 #### miku雪初音手办一如既往在今年夏天7月发售，而且这次你确定是16岁？
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/SNOW_MIKU_1.jpeg?raw=true)
+![](img/SNOW_MIKU_1.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/SNOW_MIKU_2.jpeg?raw=true)
+![](img/SNOW_MIKU_2.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/SNOW_MIKU_3.jpeg?raw=true)
+![](img/SNOW_MIKU_3.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/SNOW_MIKU_4.jpeg?raw=true)
+![](img/SNOW_MIKU_4.jpeg)
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/SNOW_MIKU_5.jpeg?raw=true)
+![](img/SNOW_MIKU_5.jpeg)
 
 #### 距离巡音投稿还有26天
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/LUKA.jpeg?raw=true)
+![](img/LUKA.jpeg)
 
 巡音ルカ10周年纪念网站
 https://piapro.net/luka10th/
@@ -223,16 +225,16 @@ https://piapro.net/luka10th/
 
 1. mafumafu的贞德曲（compass角色曲）历时546.8天传说
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/mafu.jpeg?raw=true)
+![](img/mafu.jpeg)
 
 2. 尤里卡农的自杀游行历时528.8天传说
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/selfkilling.jpeg?raw=true)
+![](img/selfkilling.jpeg)
 
 3. 奶油糖星人的银河明星号历时311.6天传说
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/universe.jpeg?raw=true)
+![](img/universe.jpeg)
 
 #### 这次nhk红白歌会开幕是由DAOKO和miku一起演出的哦
 
-![](https://github.com/sandyzikun/VOCALOID-Fly/blob/master/LXP_Post02/img/DAOKO.jpeg?raw=true)
+![](img/DAOKO.jpeg)
